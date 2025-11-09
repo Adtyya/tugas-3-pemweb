@@ -1,0 +1,25 @@
+{
+  "name": "tugas-2-vue-ut",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "sweetalert2": "^11.26.3",
+    "tailwindcss": "^4.1.17",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.22",
+    "vue-hooks-form": "^0.3.1",
+    "vue-router": "^4.6.3",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "vite": "^7.1.7"
+  }
+}
